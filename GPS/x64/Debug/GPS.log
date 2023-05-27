@@ -1,0 +1,27 @@
+﻿  caculatePosition.cpp
+D:\code\c++ code\GPS\GPS\caculatePosition.cpp(41,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  caculateSPP.cpp
+D:\code\c++ code\GPS\GPS\fileReader.h(74,2): warning C4091: “typedef ”: 没有声明变量时忽略“obs_head”的左侧
+D:\code\c++ code\GPS\GPS\fileReader.h(91,2): warning C4091: “typedef ”: 没有声明变量时忽略“obs_epoch”的左侧
+D:\code\c++ code\GPS\GPS\fileReader.h(111,2): warning C4091: “typedef ”: 没有声明变量时忽略“navi_body”的左侧
+D:\code\c++ code\GPS\GPS\caculateSPP.cpp(8,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  fileReader.cpp
+D:\code\c++ code\GPS\GPS\fileReader.h(74,2): warning C4091: “typedef ”: 没有声明变量时忽略“obs_head”的左侧
+D:\code\c++ code\GPS\GPS\fileReader.h(91,2): warning C4091: “typedef ”: 没有声明变量时忽略“obs_epoch”的左侧
+D:\code\c++ code\GPS\GPS\fileReader.h(111,2): warning C4091: “typedef ”: 没有声明变量时忽略“navi_body”的左侧
+D:\code\c++ code\GPS\GPS\fileReader.cpp(70,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\c++ code\GPS\GPS\fileReader.cpp(88,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\c++ code\GPS\GPS\fileReader.cpp(89,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\c++ code\GPS\GPS\fileReader.cpp(90,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\c++ code\GPS\GPS\fileReader.cpp(91,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\c++ code\GPS\GPS\fileReader.cpp(92,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\c++ code\GPS\GPS\fileReader.cpp(518,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  GPS.cpp
+D:\code\c++ code\GPS\GPS\fileReader.h(74,2): warning C4091: “typedef ”: 没有声明变量时忽略“obs_head”的左侧
+D:\code\c++ code\GPS\GPS\fileReader.h(91,2): warning C4091: “typedef ”: 没有声明变量时忽略“obs_epoch”的左侧
+D:\code\c++ code\GPS\GPS\fileReader.h(111,2): warning C4091: “typedef ”: 没有声明变量时忽略“navi_body”的左侧
+D:\code\c++ code\GPS\GPS\GPS.cpp(85,74): warning C4838: 从“double”转换到“int”需要收缩转换
+D:\code\c++ code\GPS\GPS\GPS.cpp(85,74): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Matrix.cpp
+  正在生成代码...
+  GPS.vcxproj -> D:\code\c++ code\GPS\x64\Debug\GPS.exe
